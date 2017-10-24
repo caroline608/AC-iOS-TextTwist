@@ -8,5 +8,14 @@
 
 import Foundation
 
+
+
 class TextTwistModel {
+    func selectRandomLetters() {
+    let randomWordChoice =
+   
+    }
 }
+
+
+var randInt = Int(arc4random_uniform(WordData.allInfo[letters].letters))
